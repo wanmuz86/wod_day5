@@ -4,10 +4,10 @@
 WOD Day 5
 Consider a staircase of size n = 4:
 
-   *
-  **
- ***
-****
+   o
+  oo
+ ooo
+oooo
 
 Observe that its base and height are both equal to n, and the image is drawn using * symbols and spaces. The last line is not preceded by any spaces.
 
